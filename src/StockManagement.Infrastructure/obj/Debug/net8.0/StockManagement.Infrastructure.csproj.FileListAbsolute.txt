@@ -1,0 +1,17 @@
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/bin/Debug/net8.0/StockManagement.Infrastructure.deps.json
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/bin/Debug/net8.0/StockManagement.Infrastructure.runtimeconfig.json
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/bin/Debug/net8.0/StockManagement.Infrastructure.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/bin/Debug/net8.0/StockManagement.Infrastructure.pdb
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/bin/Debug/net8.0/StockManagement.Domain.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/bin/Debug/net8.0/StockManagement.Domain.pdb
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.AssemblyInfo.cs
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockMan.D7A1E52F.Up2Date
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/refint/StockManagement.Infrastructure.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.pdb
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.genruntimeconfig.cache
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/ref/StockManagement.Infrastructure.dll

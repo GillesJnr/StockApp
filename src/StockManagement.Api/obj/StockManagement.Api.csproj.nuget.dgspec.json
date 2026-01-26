@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/StockManagement.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/StockManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/StockManagement.Api.csproj",
+        "projectName": "StockManagement.Api",
+        "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/StockManagement.Api.csproj",
+        "packagesPath": "/Users/gilles/.nuget/packages/",
+        "outputPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gilles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/StockManagement.Application.csproj": {
+                "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/StockManagement.Application.csproj"
+              },
+              "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj": {
+                "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj"
+              },
+              "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj": {
+                "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/StockManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/StockManagement.Application.csproj",
+        "projectName": "StockManagement.Application",
+        "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/StockManagement.Application.csproj",
+        "packagesPath": "/Users/gilles/.nuget/packages/",
+        "outputPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gilles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj": {
+                "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj"
+              },
+              "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj": {
+                "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2024.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj",
+        "projectName": "StockManagement.Domain",
+        "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj",
+        "packagesPath": "/Users/gilles/.nuget/packages/",
+        "outputPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gilles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj",
+        "projectName": "StockManagement.Infrastructure",
+        "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/StockManagement.Infrastructure.csproj",
+        "packagesPath": "/Users/gilles/.nuget/packages/",
+        "outputPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gilles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj": {
+                "projectPath": "/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/StockManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

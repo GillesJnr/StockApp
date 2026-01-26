@@ -1,0 +1,11 @@
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/bin/Debug/net8.0/StockManagement.Domain.deps.json
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/bin/Debug/net8.0/StockManagement.Domain.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/bin/Debug/net8.0/StockManagement.Domain.pdb
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.AssemblyInfoInputs.cache
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.AssemblyInfo.cs
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/refint/StockManagement.Domain.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.pdb
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/ref/StockManagement.Domain.dll

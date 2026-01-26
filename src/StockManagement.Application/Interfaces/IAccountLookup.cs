@@ -1,0 +1,6 @@
+namespace StockManagement.Application.Interfaces;
+
+public interface IAccountLookup
+{
+    Task<string?> GetAccountNameAsync(string accountNumber);
+}
