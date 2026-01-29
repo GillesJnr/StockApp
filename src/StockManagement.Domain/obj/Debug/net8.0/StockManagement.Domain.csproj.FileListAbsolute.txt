@@ -9,3 +9,4 @@
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/refint/StockManagement.Domain.dll
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.pdb
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/ref/StockManagement.Domain.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Domain/obj/Debug/net8.0/StockManagement.Domain.sourcelink.json

@@ -34,3 +34,4 @@
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/obj/Debug/net8.0/refint/StockManagement.Application.dll
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/obj/Debug/net8.0/StockManagement.Application.pdb
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/obj/Debug/net8.0/ref/StockManagement.Application.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Application/obj/Debug/net8.0/StockManagement.Application.sourcelink.json

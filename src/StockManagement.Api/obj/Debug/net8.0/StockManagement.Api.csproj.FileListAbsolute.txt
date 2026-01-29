@@ -127,3 +127,4 @@
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/obj/Debug/net8.0/StockManagement.Api.pdb
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/obj/Debug/net8.0/StockManagement.Api.genruntimeconfig.cache
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/obj/Debug/net8.0/ref/StockManagement.Api.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Api/obj/Debug/net8.0/StockManagement.Api.sourcelink.json

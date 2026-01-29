@@ -1,5 +1,5 @@
 using System.Text;
-using Microsoft.OpenApi;
+using Microsoft.OpenApi.Models;
 using StockManagement.Api;
 using StockManagement.Application;
 using StockManagement.Application.Services;

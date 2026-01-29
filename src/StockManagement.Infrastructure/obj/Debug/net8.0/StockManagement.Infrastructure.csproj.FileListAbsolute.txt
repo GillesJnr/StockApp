@@ -15,3 +15,4 @@
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.pdb
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.genruntimeconfig.cache
 /Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/ref/StockManagement.Infrastructure.dll
+/Users/gilles/RiderProjects/StockManagement/src/StockManagement.Infrastructure/obj/Debug/net8.0/StockManagement.Infrastructure.sourcelink.json
